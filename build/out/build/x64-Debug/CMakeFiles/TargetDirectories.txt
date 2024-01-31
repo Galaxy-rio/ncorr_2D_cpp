@@ -1,0 +1,6 @@
+C:/Users/galaxyrio/Documents/Code_for_Undergraduate_Thesis/SRDIC/build/out/build/x64-Debug/CMakeFiles/ncorr.dir
+C:/Users/galaxyrio/Documents/Code_for_Undergraduate_Thesis/SRDIC/build/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/galaxyrio/Documents/Code_for_Undergraduate_Thesis/SRDIC/build/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/galaxyrio/Documents/Code_for_Undergraduate_Thesis/SRDIC/build/out/build/x64-Debug/CMakeFiles/list_install_components.dir
+C:/Users/galaxyrio/Documents/Code_for_Undergraduate_Thesis/SRDIC/build/out/build/x64-Debug/CMakeFiles/install.dir
+C:/Users/galaxyrio/Documents/Code_for_Undergraduate_Thesis/SRDIC/build/out/build/x64-Debug/CMakeFiles/install/local.dir
